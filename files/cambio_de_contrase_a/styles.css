@@ -24,7 +24,7 @@
   width:650px;
   height:317px;
   background:inherit;
-  background-color:rgba(188, 224, 253, 1);
+  background-color:rgba(153, 199, 182, 1);
   border:none;
   border-radius:0px;
   -moz-box-shadow:none;
@@ -70,7 +70,7 @@
   font-family:'Segoe UI Negrita', 'Segoe UI Normal', 'Segoe UI', sans-serif;
   font-weight:700;
   font-style:normal;
-  color:#2699FB;
+  color:#00734A;
   text-align:center;
 }
 #u34 {
@@ -84,7 +84,7 @@
   font-family:'Segoe UI Negrita', 'Segoe UI Normal', 'Segoe UI', sans-serif;
   font-weight:700;
   font-style:normal;
-  color:#2699FB;
+  color:#00734A;
   text-align:center;
 }
 #u34 .text {
@@ -116,7 +116,7 @@
   font-family:'Segoe UI Negrita', 'Segoe UI Normal', 'Segoe UI', sans-serif;
   font-weight:700;
   font-style:normal;
-  color:#2699FB;
+  color:#00734A;
 }
 #u35 {
   border-width:0px;
@@ -129,7 +129,7 @@
   font-family:'Segoe UI Negrita', 'Segoe UI Normal', 'Segoe UI', sans-serif;
   font-weight:700;
   font-style:normal;
-  color:#2699FB;
+  color:#00734A;
 }
 #u35 .text {
   position:absolute;
@@ -161,7 +161,7 @@
   font-weight:400;
   font-style:normal;
   font-size:15px;
-  color:#2699FB;
+  color:#00734A;
   text-align:justify;
   text-justify:inter-word;
   line-height:18px;
@@ -178,7 +178,7 @@
   font-weight:400;
   font-style:normal;
   font-size:15px;
-  color:#2699FB;
+  color:#00734A;
   text-align:justify;
   text-justify:inter-word;
   line-height:18px;
@@ -203,11 +203,11 @@
   width:236px;
   height:40px;
   background:inherit;
-  background-color:rgba(38, 153, 251, 1);
+  background-color:rgba(0, 115, 74, 1);
   box-sizing:border-box;
   border-width:1px;
   border-style:solid;
-  border-color:rgba(38, 153, 251, 1);
+  border-color:rgba(0, 115, 74, 1);
   border-radius:30px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
@@ -250,7 +250,7 @@
   width:98px;
   height:479px;
   background:inherit;
-  background-color:rgba(188, 224, 253, 1);
+  background-color:rgba(153, 199, 182, 1);
   border:none;
   border-radius:0px;
   -moz-box-shadow:none;
@@ -287,7 +287,7 @@
   width:100px;
   height:479px;
   background:inherit;
-  background-color:rgba(188, 224, 253, 1);
+  background-color:rgba(153, 199, 182, 1);
   border:none;
   border-radius:0px;
   -moz-box-shadow:none;
@@ -342,7 +342,7 @@
   font-weight:600;
   font-style:normal;
   font-size:15px;
-  color:#2699FB;
+  color:#00734A;
   text-align:center;
 }
 #u41 {
@@ -357,7 +357,7 @@
   font-weight:600;
   font-style:normal;
   font-size:15px;
-  color:#2699FB;
+  color:#00734A;
   text-align:center;
 }
 #u41 .text {
@@ -390,7 +390,7 @@
   font-weight:600;
   font-style:normal;
   font-size:15px;
-  color:#2699FB;
+  color:#00734A;
   text-align:center;
 }
 #u42 {
@@ -405,7 +405,7 @@
   font-weight:600;
   font-style:normal;
   font-size:15px;
-  color:#2699FB;
+  color:#00734A;
   text-align:center;
 }
 #u42 .text {
@@ -438,7 +438,7 @@
   font-weight:600;
   font-style:normal;
   font-size:15px;
-  color:#2699FB;
+  color:#00734A;
   text-align:center;
 }
 #u43 {
@@ -453,7 +453,7 @@
   font-weight:600;
   font-style:normal;
   font-size:15px;
-  color:#2699FB;
+  color:#00734A;
   text-align:center;
 }
 #u43 .text {
@@ -636,7 +636,7 @@
   font-weight:400;
   font-style:normal;
   font-size:11px;
-  color:#2699FB;
+  color:#00734A;
   text-align:justify;
   text-justify:inter-word;
   line-height:11px;
@@ -653,7 +653,7 @@
   font-weight:400;
   font-style:normal;
   font-size:11px;
-  color:#2699FB;
+  color:#00734A;
   text-align:justify;
   text-justify:inter-word;
   line-height:11px;
@@ -688,7 +688,7 @@
   font-weight:400;
   font-style:normal;
   font-size:15px;
-  color:#2699FB;
+  color:#00734A;
   text-align:justify;
   text-justify:inter-word;
   line-height:18px;
@@ -705,7 +705,7 @@
   font-weight:400;
   font-style:normal;
   font-size:15px;
-  color:#2699FB;
+  color:#00734A;
   text-align:justify;
   text-justify:inter-word;
   line-height:18px;
@@ -730,11 +730,11 @@
   width:236px;
   height:40px;
   background:inherit;
-  background-color:rgba(38, 153, 251, 1);
+  background-color:rgba(0, 115, 74, 1);
   box-sizing:border-box;
   border-width:1px;
   border-style:solid;
-  border-color:rgba(38, 153, 251, 1);
+  border-color:rgba(0, 115, 74, 1);
   border-radius:30px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
@@ -791,7 +791,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   width:374px;
   height:498px;
   background:inherit;
-  background-color:rgba(188, 224, 253, 1);
+  background-color:rgba(153, 199, 182, 1);
   border:none;
   border-radius:0px;
   -moz-box-shadow:none;
@@ -831,7 +831,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   font-family:'Segoe UI Negrita', 'Segoe UI Normal', 'Segoe UI', sans-serif;
   font-weight:700;
   font-style:normal;
-  color:#2699FB;
+  color:#00734A;
   text-align:center;
 }
 #u34.a {
@@ -867,7 +867,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   font-family:'Segoe UI Negrita', 'Segoe UI Normal', 'Segoe UI', sans-serif;
   font-weight:700;
   font-style:normal;
-  color:#2699FB;
+  color:#00734A;
 }
 #u35.a {
   left:36px;
@@ -904,7 +904,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   font-weight:400;
   font-style:normal;
   font-size:15px;
-  color:#2699FB;
+  color:#00734A;
   text-align:justify;
   text-justify:inter-word;
   line-height:18px;
@@ -933,11 +933,11 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   width:236px;
   height:40px;
   background:inherit;
-  background-color:rgba(38, 153, 251, 1);
+  background-color:rgba(0, 115, 74, 1);
   box-sizing:border-box;
   border-width:1px;
   border-style:solid;
-  border-color:rgba(38, 153, 251, 1);
+  border-color:rgba(0, 115, 74, 1);
   border-radius:30px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
@@ -967,7 +967,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   width:98px;
   height:479px;
   background:inherit;
-  background-color:rgba(188, 224, 253, 1);
+  background-color:rgba(153, 199, 182, 1);
   border:none;
   border-radius:0px;
   -moz-box-shadow:none;
@@ -992,7 +992,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   width:100px;
   height:479px;
   background:inherit;
-  background-color:rgba(188, 224, 253, 1);
+  background-color:rgba(153, 199, 182, 1);
   border:none;
   border-radius:0px;
   -moz-box-shadow:none;
@@ -1030,7 +1030,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   font-weight:600;
   font-style:normal;
   font-size:15px;
-  color:#2699FB;
+  color:#00734A;
   text-align:center;
 }
 #u41.a {
@@ -1068,7 +1068,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   font-weight:600;
   font-style:normal;
   font-size:15px;
-  color:#2699FB;
+  color:#00734A;
   text-align:center;
 }
 #u42.a {
@@ -1107,7 +1107,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   font-weight:600;
   font-style:normal;
   font-size:15px;
-  color:#2699FB;
+  color:#00734A;
   text-align:center;
 }
 #u43.a {
@@ -1242,7 +1242,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   font-weight:400;
   font-style:normal;
   font-size:11px;
-  color:#2699FB;
+  color:#00734A;
   text-align:justify;
   text-justify:inter-word;
   line-height:11px;
@@ -1283,7 +1283,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   font-weight:400;
   font-style:normal;
   font-size:15px;
-  color:#2699FB;
+  color:#00734A;
   text-align:justify;
   text-justify:inter-word;
   line-height:18px;
@@ -1312,11 +1312,11 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   width:236px;
   height:40px;
   background:inherit;
-  background-color:rgba(38, 153, 251, 1);
+  background-color:rgba(0, 115, 74, 1);
   box-sizing:border-box;
   border-width:1px;
   border-style:solid;
-  border-color:rgba(38, 153, 251, 1);
+  border-color:rgba(0, 115, 74, 1);
   border-radius:30px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;

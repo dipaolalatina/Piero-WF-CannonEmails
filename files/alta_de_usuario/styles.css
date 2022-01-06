@@ -24,7 +24,7 @@
   width:650px;
   height:317px;
   background:inherit;
-  background-color:rgba(188, 224, 253, 1);
+  background-color:rgba(153, 199, 182, 1);
   border:none;
   border-radius:0px;
   -moz-box-shadow:none;
@@ -70,7 +70,7 @@
   font-family:'Segoe UI Negrita', 'Segoe UI Normal', 'Segoe UI', sans-serif;
   font-weight:700;
   font-style:normal;
-  color:#2699FB;
+  color:#00734A;
   text-align:center;
 }
 #u1 {
@@ -84,7 +84,7 @@
   font-family:'Segoe UI Negrita', 'Segoe UI Normal', 'Segoe UI', sans-serif;
   font-weight:700;
   font-style:normal;
-  color:#2699FB;
+  color:#00734A;
   text-align:center;
 }
 #u1 .text {
@@ -116,7 +116,7 @@
   font-family:'Segoe UI Negrita', 'Segoe UI Normal', 'Segoe UI', sans-serif;
   font-weight:700;
   font-style:normal;
-  color:#2699FB;
+  color:#00734A;
   text-align:center;
 }
 #u2 {
@@ -130,7 +130,7 @@
   font-family:'Segoe UI Negrita', 'Segoe UI Normal', 'Segoe UI', sans-serif;
   font-weight:700;
   font-style:normal;
-  color:#2699FB;
+  color:#00734A;
   text-align:center;
 }
 #u2 .text {
@@ -163,7 +163,7 @@
   font-weight:400;
   font-style:normal;
   font-size:15px;
-  color:#2699FB;
+  color:#00734A;
   text-align:justify;
   text-justify:inter-word;
   line-height:18px;
@@ -180,7 +180,7 @@
   font-weight:400;
   font-style:normal;
   font-size:15px;
-  color:#2699FB;
+  color:#00734A;
   text-align:justify;
   text-justify:inter-word;
   line-height:18px;
@@ -205,11 +205,11 @@
   width:140px;
   height:40px;
   background:inherit;
-  background-color:rgba(38, 153, 251, 1);
+  background-color:rgba(0, 115, 74, 1);
   box-sizing:border-box;
   border-width:1px;
   border-style:solid;
-  border-color:rgba(38, 153, 251, 1);
+  border-color:rgba(0, 115, 74, 1);
   border-radius:30px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
@@ -299,7 +299,7 @@
   font-family:'Segoe UI Negrita', 'Segoe UI Normal', 'Segoe UI', sans-serif;
   font-weight:700;
   font-style:normal;
-  color:#2699FB;
+  color:#00734A;
   text-align:center;
 }
 #u7 {
@@ -313,7 +313,7 @@
   font-family:'Segoe UI Negrita', 'Segoe UI Normal', 'Segoe UI', sans-serif;
   font-weight:700;
   font-style:normal;
-  color:#2699FB;
+  color:#00734A;
   text-align:center;
 }
 #u7 .text {
@@ -336,11 +336,11 @@
   width:102px;
   height:29px;
   background:inherit;
-  background-color:rgba(38, 153, 251, 1);
+  background-color:rgba(0, 115, 74, 1);
   box-sizing:border-box;
   border-width:1px;
   border-style:solid;
-  border-color:rgba(38, 153, 251, 1);
+  border-color:rgba(0, 115, 74, 1);
   border-radius:30px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
@@ -394,7 +394,7 @@
   font-family:'Segoe UI Normal', 'Segoe UI', sans-serif;
   font-weight:400;
   font-style:normal;
-  color:#2699FB;
+  color:#00734A;
   text-align:center;
   line-height:18px;
 }
@@ -409,7 +409,7 @@
   font-family:'Segoe UI Normal', 'Segoe UI', sans-serif;
   font-weight:400;
   font-style:normal;
-  color:#2699FB;
+  color:#00734A;
   text-align:center;
   line-height:18px;
 }
@@ -443,7 +443,7 @@
   font-weight:700;
   font-style:normal;
   font-size:19px;
-  color:#2699FB;
+  color:#00734A;
   text-align:center;
 }
 #u10 {
@@ -458,7 +458,7 @@
   font-weight:700;
   font-style:normal;
   font-size:19px;
-  color:#2699FB;
+  color:#00734A;
   text-align:center;
 }
 #u10 .text {
@@ -528,7 +528,7 @@
   font-family:'Segoe UI Negrita', 'Segoe UI Normal', 'Segoe UI', sans-serif;
   font-weight:700;
   font-style:normal;
-  color:#2699FB;
+  color:#00734A;
   text-align:center;
 }
 #u13 {
@@ -542,7 +542,7 @@
   font-family:'Segoe UI Negrita', 'Segoe UI Normal', 'Segoe UI', sans-serif;
   font-weight:700;
   font-style:normal;
-  color:#2699FB;
+  color:#00734A;
   text-align:center;
 }
 #u13 .text {
@@ -565,11 +565,11 @@
   width:102px;
   height:29px;
   background:inherit;
-  background-color:rgba(38, 153, 251, 1);
+  background-color:rgba(0, 115, 74, 1);
   box-sizing:border-box;
   border-width:1px;
   border-style:solid;
-  border-color:rgba(38, 153, 251, 1);
+  border-color:rgba(0, 115, 74, 1);
   border-radius:30px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
@@ -623,7 +623,7 @@
   font-family:'Segoe UI Normal', 'Segoe UI', sans-serif;
   font-weight:400;
   font-style:normal;
-  color:#2699FB;
+  color:#00734A;
   text-align:center;
   line-height:18px;
 }
@@ -638,7 +638,7 @@
   font-family:'Segoe UI Normal', 'Segoe UI', sans-serif;
   font-weight:400;
   font-style:normal;
-  color:#2699FB;
+  color:#00734A;
   text-align:center;
   line-height:18px;
 }
@@ -662,7 +662,7 @@
   width:98px;
   height:941px;
   background:inherit;
-  background-color:rgba(188, 224, 253, 1);
+  background-color:rgba(153, 199, 182, 1);
   border:none;
   border-radius:0px;
   -moz-box-shadow:none;
@@ -699,7 +699,7 @@
   width:100px;
   height:941px;
   background:inherit;
-  background-color:rgba(188, 224, 253, 1);
+  background-color:rgba(153, 199, 182, 1);
   border:none;
   border-radius:0px;
   -moz-box-shadow:none;
@@ -784,7 +784,7 @@
   font-weight:700;
   font-style:normal;
   font-size:17px;
-  color:#2699FB;
+  color:#00734A;
 }
 #u20 {
   border-width:0px;
@@ -798,7 +798,7 @@
   font-weight:700;
   font-style:normal;
   font-size:17px;
-  color:#2699FB;
+  color:#00734A;
 }
 #u20 .text {
   position:absolute;
@@ -820,11 +820,11 @@
   width:102px;
   height:29px;
   background:inherit;
-  background-color:rgba(38, 153, 251, 1);
+  background-color:rgba(0, 115, 74, 1);
   box-sizing:border-box;
   border-width:1px;
   border-style:solid;
-  border-color:rgba(38, 153, 251, 1);
+  border-color:rgba(0, 115, 74, 1);
   border-radius:30px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
@@ -878,7 +878,7 @@
   font-family:'Segoe UI Normal', 'Segoe UI', sans-serif;
   font-weight:400;
   font-style:normal;
-  color:#2699FB;
+  color:#00734A;
   line-height:15px;
 }
 #u22 {
@@ -892,7 +892,7 @@
   font-family:'Segoe UI Normal', 'Segoe UI', sans-serif;
   font-weight:400;
   font-style:normal;
-  color:#2699FB;
+  color:#00734A;
   line-height:15px;
 }
 #u22 .text {
@@ -933,7 +933,7 @@
   font-weight:600;
   font-style:normal;
   font-size:15px;
-  color:#2699FB;
+  color:#00734A;
   text-align:center;
 }
 #u24 {
@@ -948,7 +948,7 @@
   font-weight:600;
   font-style:normal;
   font-size:15px;
-  color:#2699FB;
+  color:#00734A;
   text-align:center;
 }
 #u24 .text {
@@ -981,7 +981,7 @@
   font-weight:600;
   font-style:normal;
   font-size:15px;
-  color:#2699FB;
+  color:#00734A;
   text-align:center;
 }
 #u25 {
@@ -996,7 +996,7 @@
   font-weight:600;
   font-style:normal;
   font-size:15px;
-  color:#2699FB;
+  color:#00734A;
   text-align:center;
 }
 #u25 .text {
@@ -1029,7 +1029,7 @@
   font-weight:600;
   font-style:normal;
   font-size:15px;
-  color:#2699FB;
+  color:#00734A;
   text-align:center;
 }
 #u26 {
@@ -1044,7 +1044,7 @@
   font-weight:600;
   font-style:normal;
   font-size:15px;
-  color:#2699FB;
+  color:#00734A;
   text-align:center;
 }
 #u26 .text {
@@ -1075,6 +1075,7 @@
   width:2px;
   height:46px;
   display:flex;
+  color:#00734A;
 }
 #u27 .text {
   position:absolute;
@@ -1105,6 +1106,7 @@
   width:2px;
   height:46px;
   display:flex;
+  color:#00734A;
 }
 #u28 .text {
   position:absolute;
@@ -1227,7 +1229,7 @@
   font-weight:400;
   font-style:normal;
   font-size:11px;
-  color:#2699FB;
+  color:#00734A;
   text-align:justify;
   text-justify:inter-word;
   line-height:11px;
@@ -1244,7 +1246,7 @@
   font-weight:400;
   font-style:normal;
   font-size:11px;
-  color:#2699FB;
+  color:#00734A;
   text-align:justify;
   text-justify:inter-word;
   line-height:11px;
@@ -1283,7 +1285,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   width:374px;
   height:498px;
   background:inherit;
-  background-color:rgba(188, 224, 253, 1);
+  background-color:rgba(153, 199, 182, 1);
   border:none;
   border-radius:0px;
   -moz-box-shadow:none;
@@ -1323,7 +1325,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   font-family:'Segoe UI Negrita', 'Segoe UI Normal', 'Segoe UI', sans-serif;
   font-weight:700;
   font-style:normal;
-  color:#2699FB;
+  color:#00734A;
   text-align:center;
 }
 #u1.a {
@@ -1360,7 +1362,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   font-family:'Segoe UI Negrita', 'Segoe UI Normal', 'Segoe UI', sans-serif;
   font-weight:700;
   font-style:normal;
-  color:#2699FB;
+  color:#00734A;
   text-align:center;
 }
 #u2.a {
@@ -1399,7 +1401,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   font-weight:400;
   font-style:normal;
   font-size:15px;
-  color:#2699FB;
+  color:#00734A;
   text-align:justify;
   text-justify:inter-word;
   line-height:18px;
@@ -1428,11 +1430,11 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   width:140px;
   height:40px;
   background:inherit;
-  background-color:rgba(38, 153, 251, 1);
+  background-color:rgba(0, 115, 74, 1);
   box-sizing:border-box;
   border-width:1px;
   border-style:solid;
-  border-color:rgba(38, 153, 251, 1);
+  border-color:rgba(0, 115, 74, 1);
   border-radius:30px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
@@ -1490,7 +1492,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   font-family:'Segoe UI Negrita', 'Segoe UI Normal', 'Segoe UI', sans-serif;
   font-weight:700;
   font-style:normal;
-  color:#2699FB;
+  color:#00734A;
   text-align:center;
 }
 #u7.a {
@@ -1516,11 +1518,11 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   width:102px;
   height:29px;
   background:inherit;
-  background-color:rgba(38, 153, 251, 1);
+  background-color:rgba(0, 115, 74, 1);
   box-sizing:border-box;
   border-width:1px;
   border-style:solid;
-  border-color:rgba(38, 153, 251, 1);
+  border-color:rgba(0, 115, 74, 1);
   border-radius:30px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
@@ -1563,7 +1565,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   font-family:'Segoe UI Normal', 'Segoe UI', sans-serif;
   font-weight:400;
   font-style:normal;
-  color:#2699FB;
+  color:#00734A;
   text-align:center;
   line-height:18px;
 }
@@ -1602,7 +1604,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   font-weight:700;
   font-style:normal;
   font-size:19px;
-  color:#2699FB;
+  color:#00734A;
   text-align:center;
 }
 #u10.a {
@@ -1655,7 +1657,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   font-family:'Segoe UI Negrita', 'Segoe UI Normal', 'Segoe UI', sans-serif;
   font-weight:700;
   font-style:normal;
-  color:#2699FB;
+  color:#00734A;
   text-align:center;
 }
 #u13.a {
@@ -1681,11 +1683,11 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   width:102px;
   height:29px;
   background:inherit;
-  background-color:rgba(38, 153, 251, 1);
+  background-color:rgba(0, 115, 74, 1);
   box-sizing:border-box;
   border-width:1px;
   border-style:solid;
-  border-color:rgba(38, 153, 251, 1);
+  border-color:rgba(0, 115, 74, 1);
   border-radius:30px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
@@ -1728,7 +1730,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   font-family:'Segoe UI Normal', 'Segoe UI', sans-serif;
   font-weight:400;
   font-style:normal;
-  color:#2699FB;
+  color:#00734A;
   text-align:center;
   line-height:18px;
 }
@@ -1753,7 +1755,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   width:98px;
   height:941px;
   background:inherit;
-  background-color:rgba(188, 224, 253, 1);
+  background-color:rgba(153, 199, 182, 1);
   border:none;
   border-radius:0px;
   -moz-box-shadow:none;
@@ -1778,7 +1780,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   width:100px;
   height:941px;
   background:inherit;
-  background-color:rgba(188, 224, 253, 1);
+  background-color:rgba(153, 199, 182, 1);
   border:none;
   border-radius:0px;
   -moz-box-shadow:none;
@@ -1835,7 +1837,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   font-weight:700;
   font-style:normal;
   font-size:17px;
-  color:#2699FB;
+  color:#00734A;
 }
 #u20.a {
   left:59px;
@@ -1860,11 +1862,11 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   width:102px;
   height:29px;
   background:inherit;
-  background-color:rgba(38, 153, 251, 1);
+  background-color:rgba(0, 115, 74, 1);
   box-sizing:border-box;
   border-width:1px;
   border-style:solid;
-  border-color:rgba(38, 153, 251, 1);
+  border-color:rgba(0, 115, 74, 1);
   border-radius:30px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
@@ -1906,7 +1908,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   font-family:'Segoe UI Normal', 'Segoe UI', sans-serif;
   font-weight:400;
   font-style:normal;
-  color:#2699FB;
+  color:#00734A;
   line-height:15px;
 }
 #u22.a {
@@ -1942,7 +1944,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   font-weight:600;
   font-style:normal;
   font-size:15px;
-  color:#2699FB;
+  color:#00734A;
   text-align:center;
 }
 #u24.a {
@@ -1980,7 +1982,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   font-weight:600;
   font-style:normal;
   font-size:15px;
-  color:#2699FB;
+  color:#00734A;
   text-align:center;
 }
 #u25.a {
@@ -2019,7 +2021,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   font-weight:600;
   font-style:normal;
   font-size:15px;
-  color:#2699FB;
+  color:#00734A;
   text-align:center;
 }
 #u26.a {
@@ -2154,7 +2156,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   font-weight:400;
   font-style:normal;
   font-size:11px;
-  color:#2699FB;
+  color:#00734A;
   text-align:justify;
   text-justify:inter-word;
   line-height:11px;
